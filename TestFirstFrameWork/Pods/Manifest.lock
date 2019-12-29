@@ -1,0 +1,16 @@
+PODS:
+  - FirstFrameWork (1.0.0)
+
+DEPENDENCIES:
+  - FirstFrameWork (from `../FirstFrameWork/`)
+
+EXTERNAL SOURCES:
+  FirstFrameWork:
+    :path: "../FirstFrameWork/"
+
+SPEC CHECKSUMS:
+  FirstFrameWork: 66e95b508d6615c515ad8856dce966917bd3bd6d
+
+PODFILE CHECKSUM: 1e346b75e1f1e367d915c56a6a6ac724b32ad55f
+
+COCOAPODS: 1.8.4

@@ -1,0 +1,24 @@
+{
+  "name": "FirstFrameWork",
+  "version": "1.0.0",
+  "summary": "My sharable CocoPod FirstFrameWork.",
+  "description": "One of the most amazing Pods ever. I think this will be a very good start for me in sharable codes",
+  "homepage": "https://github.com/osamaguc/FirstFrameWork",
+  "license": "MIT",
+  "authors": {
+    "osama rabie": "osamaguc@gmail.com"
+  },
+  "platforms": {
+    "ios": "11.0"
+  },
+  "swift_versions": "4.0",
+  "source": {
+    "git": "https://github.com/osamaguc/FirstFrameWork.git",
+    "tag": "1.0.0"
+  },
+  "source_files": [
+    "FirstFrameWork",
+    "FirstFrameWork/**/*.{h,m,swift}"
+  ],
+  "swift_version": "4.0"
+}
