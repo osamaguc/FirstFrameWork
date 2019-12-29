@@ -10,11 +10,12 @@ Pod::Spec.new do |spec|
   spec.author             = { "osama rabie" => "osamaguc@gmail.com" }
 
   spec.platform     = :ios, "11.0"
+  spec.swift_versions = "4.0"
 
   spec.source       = { :git => "https://github.com/osamaguc/FirstFrameWork.git", :tag => "1.0.0" }
 
 
-  spec.source_files  = "FirstFrameWork"
+  spec.source_files  = "FirstFrameWork", "FirstFrameWork/**/*.{h,m,swift}"
 
 
 end
